@@ -43,7 +43,7 @@ Start by installing [Anaconda](https://www.anaconda.com/products/distribution) (
 
 Next, clone this project by opening a terminal and typing the following commands (do not type the first `$` signs on each line, they just indicate that these are terminal commands):
 
-    $ git clone https://github.com/Spraveen8-chary/handson-ml3.git
+    $ git clone https://github.com/Spraveen8-chary/hands-on-ml3.git
     $ cd handson-ml3
 
 Next, run the following commands:
